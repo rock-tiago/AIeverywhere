@@ -183,24 +183,6 @@ a {
   filter: opacity(90%);
 }
 
-#left-body-moore img {
-  height: 80px;
-  border-radius: 50%;
-  position: absolute;
-}
-
-#left-body-path img{
-  height: 80px;
-  border-radius: 50%;
-  position: absolute;
-}
-
-#left-body-about img {
-  height: 80px;
-  border-radius: 50%;
-  position: absolute; 
-}
-
 #left-nav {
   display:block;
   float: right;
