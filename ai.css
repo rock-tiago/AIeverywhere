@@ -165,22 +165,22 @@ a {
 
 #left-body img:hover {
   transition: 0.2ms;
-  filter: opacity(90%);
+  filter: opacity(80%);
 }
 
 #left-body-about img:hover {
   transition: 0.2ms;
-  filter: opacity(90%);
+  filter: opacity(80%);
 }
 
 #left-body-moore img:hover {
   transition: 0.2ms;
-  filter: opacity(90%);
+  filter: opacity(80%);
 }
 
 #left-body-path img:hover {
   transition: 0.2ms;
-  filter: opacity(90%);
+  filter: opacity(80%);
 }
 
 #left-nav {
