@@ -1,0 +1,288 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+
+#left-body {
+  background-color: rgb(43, 151, 252);
+  height: 180px;
+}
+
+#left-body-moore{
+  background-color: rgb(43, 151, 252);
+  height: 180px;
+}
+
+#left-body-path {
+  background-color: rgb(43, 151, 252);
+  height: 180px;
+}
+
+#left-body-about {
+  background-color: rgb(43, 151, 252);
+  height: 180px;
+}
+
+#right-body h3 {
+  padding-left: 400px;
+}
+
+#post {
+  padding-top: 10px;
+}
+
+#post-moore {
+  padding-top: 10px;
+}
+
+#post p {
+  padding-left: 100px;
+  font-size: 20px;
+}
+
+#post-moore {
+  padding-left: 100px;
+  font-size: 20px;
+}
+
+#post-about p {
+  padding-left: 100px;
+  font-size: 20px;
+}
+
+#post-path p {
+  padding-left: 100px;
+  font-size: 20px;
+}
+#post img {
+  height:300px;
+  margin-left: 500px;
+  padding: 20px;
+  border-radius: 75%;
+}
+
+#post-about {
+  padding-top: 10px;
+}
+
+#post-path {
+  padding-top: 10px;
+}
+
+#post-path span {
+  font-size: 25px;
+}
+
+#post-about img, #post-moore img {
+  height: 300px;
+  margin-left: 500px;
+  padding: 20px;
+}
+
+#post-path img {
+  height: 300px;
+  margin-left: 500px;
+  padding: 20px;
+}
+
+#post-path button {
+  margin-left: 800px;
+  position: absolute;
+}
+
+#button1 {
+  border: 1px solid #4d4c4c;
+  background: none;
+  padding: 8px 16px;
+  font-size: 17px;
+  font-family: "montserrat";
+  font-weight: bold;
+  transition: 0.2s;
+  background-color: #9b9b9b;
+}
+
+#button1:hover {
+  background:#6b6b6b;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.post-small-title {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#left-pic {
+  display: block;
+  float: left;
+  font-weight: bold;
+  font-size: 40px;
+  margin: auto auto auto 55px;
+  color: white;
+}
+
+#left-pic img {
+  height: 80px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#left-title {
+  margin-left: 350px;
+}
+
+#left-body img {
+  height: 80px;
+  position: absolute;
+  margin-top: 43.75px;
+}
+
+#left-body-about img {
+  height: 80px;
+  position: absolute;
+  margin-top: 43.75px;
+}
+
+#left-body-moore img {
+  height: 80px;
+  position: absolute;
+  margin-top: 43.75px;
+}
+
+#left-body-path img {
+  height: 80px;
+  position: absolute;
+  margin-top: 43.75px;
+}
+
+#left-body img:hover {
+  transition: 0.2ms;
+  filter: opacity(90%);
+}
+
+#left-body-about img:hover {
+  transition: 0.2ms;
+  filter: opacity(90%);
+}
+
+#left-body-moore img:hover {
+  transition: 0.2ms;
+  filter: opacity(90%);
+}
+
+#left-body-path img:hover {
+  transition: 0.2ms;
+  filter: opacity(90%);
+}
+
+#left-body-moore img {
+  height: 80px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#left-body-path img{
+  height: 80px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#left-body-about img {
+  height: 80px;
+  border-radius: 50%;
+  position: absolute; 
+}
+
+#left-nav {
+  display:block;
+  float: right;
+  margin-top: 20px;
+  margin-right: 210px;
+  list-style-type: none;
+}
+
+#left-nav li {
+  display: inline;
+  letter-spacing: 0.1em;
+}
+
+#left-body-moore li {
+  display: inline;
+  letter-spacing: 0.1em;
+}
+
+#left-body-path li {
+  display: inline;
+  letter-spacing: 0.1em;
+}
+
+#left-body-about li {
+  display: inline;
+  letter-spacing: 0.1em;
+}
+/* Decoration hover (a), left body */
+
+#left-nav a {
+  color: white ;
+}
+
+#left-nav a:hover {
+  color: black;
+}
+
+#left-body a:hover {
+  color: black;
+}
+
+#left-body-about a:hover {
+  color:black;
+}
+
+/* Finish a:hover for now */
+
+#footer {
+  background-color: rgb(24, 24, 34);
+}
+
+#column {
+  display: inline-block;
+  margin: 30px;
+  margin-left: 130px;
+}
+
+#column-about {
+  display: inline-block;
+  margin: 30px;
+  margin-left: 330px;
+}
+
+#column-path {
+  display: inline-block;
+  margin: 30px;
+  margin-left: 130px;
+}
+
+#footer h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: white;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #1abc9c;
+  text-transform: none;
+  font-size: 18px;
+}
+
+#footer a:hover {
+  color: #F6A623;
+}
